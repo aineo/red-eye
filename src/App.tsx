@@ -83,7 +83,7 @@ const App = (): JSX.Element => {
 	}, []);
 
 	return (
-		<div style={{ margin: 0, backgroundColor: "#333333" }}>
+		<div>
 			<Webcam
 				ref={webCamRef}
 				mirrored
