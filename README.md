@@ -1,25 +1,24 @@
 ## red-eye
 Mediapipe facemesh react project
 
-Usage
+##Usage
 
-
-### 1. Clone
+#### 1. Clone
 ```
 git clone https://github.com/aineo/red-eye.git
 ```
 
-### 2. Install
+#### 2. Install
 ```
 npm install
 ```
 
-### 3. Build
+#### 3. Build
 ```
 npm run build
 ```
 
-### 4. Run
+#### 4. Run
 ```
 npm start
 ```
