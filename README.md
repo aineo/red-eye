@@ -4,7 +4,7 @@ Mediapipe facemesh react project
 Usage
 
 
-### 1. CLone
+### 1. Clone
 ```
 git clone https://github.com/aineo/red-eye.git
 ```
